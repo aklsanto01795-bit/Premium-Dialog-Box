@@ -1,10 +1,10 @@
 {
   "welcome_dialog": {
-    "show": true,
+    "show": false,
     "telegram_link": "https://t.me/SHAWON_X_MODS",
     "mod_name": "SHAWON X MODS",
     "urdu_text": "এই অ্যাপস টি ব্যবহার করতে হলে প্রথমে Join 
-Telegram বাটনে চাপ করে চ্যানেলে জয়েন হতে হবে ━━━━━━━━━━━━━━━━━━━━━━━━━━",
+Telegram বাটনে Click করে চ্যানেলে জয়েন হতে হবে ━━━━━━━━━━━━━━━━━━━━━━━━━━",
     "english_text": "To use these premium apps, you must first join the channel by clicking the Join Telegram Button."
   },
   "update_dialog": {
