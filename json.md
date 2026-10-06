@@ -1,6 +1,6 @@
 {
   "welcome_dialog": {
-    "show": false,
+    "show": true,
     "telegram_link": "https://t.me/SHAWON_X_MODS",
     "mod_name": "SHAWON X MODS",
     "urdu_text": "এই অ্যাপস টি ব্যবহার করতে হলে প্রথমে Join 
