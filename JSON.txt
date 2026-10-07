@@ -1,15 +1,16 @@
 {
   "welcome_dialog": {
     "show": true,
-    "telegram_link": "https://t.me/SHAWON_X_MODS",
-    "mod_name": "SHAWON X MODS",
+    "telegram_link": "tg://resolve?domain=SantoBhaiOfc",
+    "mod_name": "—͞𝐒𝐚𝐧𝐭𝐨 𝐁𝐡𝐚𝐢 ༻",
     "urdu_text": "এই অ্যাপস টিতে আপডেট চলে আসছে অ্যাপটি আপডেট দিতে নিচের Update Now বাটনে ক্লিক করুন
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    
+━━━━━━━━━━━━━━━━━━━━━━━━━━",
     "english_text": "To use these premium apps, you must first join the channel by clicking the Join Telegram Button."
   },
   "update_dialog": {
     "latest_version": 2,
-    "link": "https://t.me/SHAWON_X_MODS",
-    "message": "These apps are getting updates. Click the Update Now button below to update the app."
+    "link": "tg://resolve?domain=SantoBhaiOfc",
+    "message": "A new version is available. Please update to continue."
   }
 }
