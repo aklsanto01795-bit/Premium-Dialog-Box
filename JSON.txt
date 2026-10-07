@@ -1,6 +1,6 @@
 {
   "welcome_dialog": {
-    "show": true,
+    "show": false,
     "telegram_link": "tg://resolve?domain=SantoBhaiOfc",
     "mod_name": "—͞𝐒𝐚𝐧𝐭𝐨 𝐁𝐡𝐚𝐢 ༻",
     "urdu_text": "এই অ্যাপস টিতে আপডেট চলে আসছে অ্যাপটি আপডেট দিতে নিচের Update Now বাটনে ক্লিক করুন
