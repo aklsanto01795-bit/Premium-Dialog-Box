@@ -2,7 +2,7 @@
   "welcome_dialog": {
     "show": true,
     "telegram_link": "tg://resolve?domain=SantoBhaiOfc",
-    "mod_name": "—͞𝐒𝐚𝐧𝐭𝐨 𝐁𝐡𝐚𝐢 ༻",
+    "mod_name": "—͞𝐒𝐚𝐧𝐭𝐨 𝐁𝐡𝐚𝐢 </>",
     "urdu_text": "এই প্রিমিয়াম অ্যাপস টি ব্যবহার করতে হলে প্রথমে Join Telegram বাটনে Click করে চ্যানেলে জয়েন হতে হবে ━━━━━━━━━━━━━━━━━━━━━━━━━━",
     "english_text": "To use these premium apps, you must first join the channel by clicking the Join Telegram Button."
   },
