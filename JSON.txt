@@ -8,7 +8,7 @@ Telegram বাটনে চাপ করে চ্যানেলে জয়ে�
     "english_text": "To use these premium apps, you must first join the channel by clicking the Join Telegram Button."
   },
   "update_dialog": {
-    "latest_version": 1,
+    "latest_version": 2,
     "link": "https://t.me/SHAWON_X_MODS",
     "message": "A new version is available. Please update to continue."
   }
