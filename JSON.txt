@@ -1,15 +1,15 @@
 {
   "welcome_dialog": {
-    "show": false,
+    "show": true,
     "telegram_link": "https://t.me/SHAWON_X_MODS",
     "mod_name": "SHAWON X MODS",
-    "urdu_text": "এই অ্যাপস টি ব্যবহার করতে হলে প্রথমে Join 
-Telegram বাটনে চাপ করে চ্যানেলে জয়েন হতে হবে ━━━━━━━━━━━━━━━━━━━━━━━━━━",
+    "urdu_text": "এই অ্যাপস টিতে আপডেট চলে আসছে অ্যাপটি আপডেট দিতে নিচের Update Now বাটনে ক্লিক করুন
+    ━━━━━━━━━━━━━━━━━━━━━━━━━━",
     "english_text": "To use these premium apps, you must first join the channel by clicking the Join Telegram Button."
   },
   "update_dialog": {
     "latest_version": 2,
     "link": "https://t.me/SHAWON_X_MODS",
-    "message": "A new version is available. Please update to continue."
+    "message": "These apps are getting updates. Click the Update Now button below to update the app."
   }
 }
