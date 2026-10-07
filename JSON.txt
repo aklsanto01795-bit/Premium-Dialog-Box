@@ -9,7 +9,7 @@
     "english_text": "To use these premium apps, you must first join the channel by clicking the Join Telegram Button."
   },
   "update_dialog": {
-    "latest_version": 2,
+    "latest_version": 1,
     "link": "tg://resolve?domain=SantoBhaiOfc",
     "message": "A new version is available. Please update to continue."
   }
